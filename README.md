@@ -1,6 +1,6 @@
 ## Setup
 
-The following steps will allow you to build the project and run it in your web browser:
+The following steps will allow you to build the project and run it on the device:
 
 1. Install the dependencies: `npm i`
 1. Start the webserver: `ionic serve`
